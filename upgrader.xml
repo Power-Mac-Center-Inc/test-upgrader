@@ -12,7 +12,8 @@
             <title>Version 1.15.0 - iOS</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 5 Oct 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/ph/app/petpal-ph/id6472330197" sparkle:version="1.15.0" sparkle:os="ios"  sparkle:os="ios" sparkle:isCriticalUpdate="true"/>
+            <enclosure url="https://apps.apple.com/ph/app/petpal-ph/id6472330197" sparkle:version="1.15.0" sparkle:os="ios"/>
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
     </channel>
 </rss>
