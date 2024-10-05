@@ -13,7 +13,7 @@
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 5 Oct 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/ph/app/petpal-ph/id6472330197" sparkle:version="1.15.0" sparkle:os="ios"/>
-            <sparkle:criticalUpdate sparkle:version="1.15.0"></sparkle:criticalUpdate>
+            <sparkle:criticalUpdate/>
         </item>
     </channel>
 </rss>
